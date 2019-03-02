@@ -1,0 +1,14 @@
+.invisible-at-first {
+	display: none;
+}
+
+#backg { 
+   background-image: linear-gradient(to right, AliceBlue, Aquamarine,Aqua);
+}
+
+#rcorners3 {
+  border-radius: 15px 50px;
+  background: white;
+ 
+ 
+} 
